@@ -1,0 +1,156 @@
+jDisease,Recommended Exercise,Avoid
+Cold,Gentle stretching|walking,High-intensity workouts during active symptoms
+Flu,Rest|light stretching after symptoms improve,Intense physical activity until recovery
+Hypertension (High Blood Pressure),Brisk walking|swimming|cycling|yoga,Heavy weight lifting without supervision
+Diabetes,Walking|cycling|strength training,High-impact exercises that may risk injury without proper control
+Anemia,Walking|yoga|pilates,High-intensity or endurance exercises until iron levels are managed
+Asthma,Swimming|walking|cycling (monitor breathing),Outdoor running in cold or polluted environments
+Allergies,Indoor yoga|stretching,Outdoor exercise when allergens are high
+Heart Disease,Walking|light strength training|swimming,High-intensity interval training without doctor approval
+Gout,Low-impact exercises (swimming|cycling),High-impact exercises during flare-ups
+Kidney Disease,Walking|light resistance training,Strenuous exercises that may strain kidneys
+Irritable Bowel Syndrome (IBS),Yoga|walking|swimming,Exercises that cause jarring movements like running
+Migraine,Walking|yoga|swimming,Strenuous activities during a migraine
+Celiac Disease,Walking|swimming|strength training,Exercise immediately after meals
+Arthritis,Swimming|walking|light strength training,High-impact exercises that stress joints
+Chronic Fatigue Syndrome,Gentle stretching|walking|yoga,Intense exercise that exacerbates fatigue
+Acid Reflux,Walking|yoga (avoid inversions),Intense core exercises (especially after eating)
+Cholesterol,Brisk walking|cycling|strength training,Sedentary lifestyle
+Pneumonia,Rest during acute phase|light walking after recovery,Intense physical activity during infection
+Thyroid Problems,Walking|strength training|yoga,Extreme intensity exercises (consult doctor)
+Peptic Ulcer,Walking|yoga (no core strain),Exercises that cause abdominal pressure
+Kidney Stones,Walking|swimming,Strenuous exercises during pain episodes
+Psoriasis,Walking|swimming (saltwater pools preferred)|yoga,High-sweat exercises that may irritate skin
+Depression,Walking|jogging|swimming|yoga,Overtraining or exercises without enjoyment
+Anxiety,Yoga|swimming|walking|tai chi,Competitive or high-stress exercises
+Acne,Walking|swimming,Sweaty or friction-heavy exercises (clean skin afterward)
+Eczema,Swimming (in saltwater pools)|walking,Activities that lead to heavy sweating or skin irritation
+Osteoporosis,Weight-bearing exercises (walking|strength training),High-impact activities that risk falls or fractures
+Parkinson's Disease,Cycling|walking|tai chi,High-risk activities requiring quick reflexes
+Bipolar Disorder,Walking|yoga|swimming,High-intensity activities during mood swings
+Autism Spectrum Disorder,Swimming|walking|yoga (focus on enjoyment),Overstimulating environments
+ADHD,Structured physical activities (martial arts|team sports)|walking,Overly repetitive exercises without engagement
+Alzheimer's Disease,Walking|swimming|tai chi (focus on coordination),Highly complex or unfamiliar routines
+PTSD,Yoga|walking|tai chi,Overly stressful or adrenaline-inducing activities
+Schizophrenia,Walking|yoga|swimming,High-stress competitive activities
+COPD,Walking|cycling|swimming,High-intensity exercises that strain breathing
+Tuberculosis,Walking|light stretching after recovery,Strenuous activities during illness
+Hepatitis,Walking|yoga|light resistance training,High-intensity training during active symptoms
+Bacterial Infections,Rest during illness|light walking post-recovery,Intense exercises during active infection
+Viral Infections,Rest|light walking during recovery,Vigorous physical activity until symptoms subside
+Candidiasis,Walking|yoga,Intense sweaty activities that promote fungal growth
+Fibromyalgia,Swimming|yoga|walking,High-impact or overly strenuous exercises
+Obesity,Walking|swimming|cycling|strength training,Exercises that cause joint strain without proper support
+Diarrhea,Rest|gentle walking post-recovery,Intense physical activity during symptoms
+Constipation,Walking|yoga|Gentle stretching,Sedentary behavior
+Gallstones,Walking|swimming,Exercises that stress the abdomen
+Sleep Apnea,Walking|light cycling,Strenuous exercise without proper breathing techniques
+Epilepsy,Yoga|light swimming,Avoid exercises that cause sudden impacts or risk of head injury
+Rheumatoid Arthritis,Swimming|yoga|tai chi,High-impact sports like running
+Lupus,Gentle yoga|walking,High-intensity workouts during flare-ups
+Multiple Sclerosis,Swimming|walking,High-temperature exercises that could increase body heat
+Chronic Obstructive Pulmonary Disease (COPD),Walking|light cycling|yoga,Exercises that put heavy strain on breathing
+Glaucoma,Walking|yoga|light cycling,High-intensity exercises that increase eye pressure
+Sickle Cell Disease,Swimming|light walking,Avoid extreme temperatures and intense activities
+Vertigo,Walking|light yoga,Avoid exercises that involve sudden head movements
+Chronic Bronchitis,Walking|light cycling,Intense cardio that strains breathing
+Diverticulitis,Walking|yoga,Avoid exercises that involve abdominal strain
+ALS (Amyotrophic Lateral Sclerosis),Tai chi|light walking,Avoid high-impact and balance-challenging activities
+Dementia,Walking|tai chi|light yoga,Exercises that require complex cognitive tasks
+Crohn's Disease,Walking|yoga (gentle),High-intensity exercises during flare-ups
+Cystic Fibrosis,Walking|cycling,Intense cardio or exercises in polluted environments
+Mononucleosis,Rest|gentle walking,Strenuous activities until fully recovered
+Endometriosis,Walking|yoga (without abdominal strain),High-impact exercises during symptoms
+Ovarian Cysts,Walking|gentle yoga,Exercises that stress the lower abdomen
+Lymphoma,Walking|yoga,Avoid exercises that tire the body during treatment
+Leukemia,Light yoga|walking,Strenuous activities during chemotherapy
+Pancreatitis,Walking|gentle stretching,High-impact sports that strain the abdomen
+Hyperthyroidism,Walking|light yoga,Avoid overly intense cardio
+Hypothyroidism,Walking|strength training,Extreme endurance exercises
+Colitis,Walking|yoga,Avoid high-impact cardio during flare-ups
+Psoriatic Arthritis,Swimming|gentle stretching,Avoid high-impact sports during flare-ups
+Carpal Tunnel Syndrome,Gentle yoga|stretching,Exercises that put strain on wrists
+Bursitis,Swimming|cycling,High-impact exercises like running
+Tennis Elbow,Walking|swimming,Avoid exercises that overuse the elbow
+Patellar Tendonitis,Swimming|cycling,Avoid jumping or squatting exercises
+Spinal Stenosis,Gentle stretching|yoga,Avoid high-impact exercises or activities that strain the back
+Herniated Disc,Swimming|walking,Avoid exercises that involve heavy lifting or back strain
+Sciatica,Yoga|walking,Exercises that aggravate lower back pain
+Plantar Fasciitis,Swimming|cycling,Avoid running or jumping exercises
+Rotator Cuff Injury,Gentle stretching|walking,Avoid heavy upper body lifting
+Frozen Shoulder,Yoga|light stretching,Avoid exercises that cause shoulder pain
+Tendonitis,Swimming|gentle stretching,Avoid high-impact exercises on the affected area
+Shin Splints,Swimming|cycling,Avoid running on hard surfaces
+Achilles Tendonitis,Swimming|cycling,Avoid high-impact running or jumping activities
+Stress Fracture,Swimming|cycling,Avoid high-impact exercises until recovery
+Tension Headache,Walking|yoga|light stretching,Strenuous exercises that can increase tension in the neck
+Vertigo,Walking|light yoga,Avoid exercises that involve sudden head movements
+Sinusitis,Walking|light yoga,High-intensity exercises that could exacerbate sinus pressure
+Concussion,Rest|light stretching after recovery,Strenuous physical activity until fully recovered
+Fracture,Walking|light yoga (post-recovery),High-impact activities before healing
+Sprain,Light stretching|walking (post-recovery),Weight-bearing exercises until fully healed
+Herniated Disc,Swimming|walking,Heavy lifting or twisting movements
+Degenerative Disc Disease,Walking|yoga,Exercises that put pressure on the lower back
+Chronic Kidney Disease,Walking|yoga,Heavy lifting or strenuous cardio without supervision
+Chronic Sinusitis,Walking|yoga (focus on breathing),Intense activities that increase pressure in the head
+Interstitial Cystitis,Walking|yoga (gentle movements),High-impact exercises that cause pelvic discomfort
+Hip Bursitis,Swimming|cycling,High-impact exercises that involve jumping or running
+Menstrual Cramps,Light yoga|walking,Avoid high-intensity workouts during severe cramps
+Osteoarthritis,Swimming|cycling|yoga,High-impact sports that put stress on joints
+Scleroderma,Walking|yoga,Strenuous activities that may cause discomfort in tight skin areas
+Sarcoidosis,Walking|yoga (focus on breath control),High-intensity exercises that strain lungs
+Raynaud's Disease,Walking|yoga,Cold-weather activities that restrict blood flow
+Carotid Artery Disease,Walking|light yoga,Avoid intense cardio without medical supervision
+Chronic Pelvic Pain,Light yoga|walking,Avoid exercises that strain the pelvic region
+Endocarditis,Walking|light stretching,Avoid intense activities during infection
+Colorectal Cancer,Light walking|yoga (after treatment),High-intensity workouts during chemotherapy
+Liver Disease,Walking|yoga (no core strain),Strenuous exercises that put pressure on the abdomen
+Peripheral Neuropathy,Walking|yoga,Exercises that risk falling or injury due to balance issues
+Muscular Dystrophy,Gentle stretching|walking,High-intensity exercises that cause muscle strain
+Brain Injury,Rest|light stretching after recovery,Avoid intense physical activity during recovery
+Chronic Pancreatitis,Walking|yoga,Avoid high-impact sports that stress the abdomen
+Epilepsy,Light yoga|swimming,Avoid activities that involve sudden impacts or risk of seizures
+Hepatitis C,Walking|yoga (no core strain),Strenuous exercise during active liver symptoms
+Scoliosis,Swimming|yoga (gentle stretches),Avoid exercises that twist or stress the spine
+Pleurisy,Walking|yoga (gentle breathing),High-intensity exercises that strain the lungs
+Vascular Dementia,Walking|tai chi|light stretching,Complex exercises that cause confusion
+Spinal Muscular Atrophy,Light yoga|gentle walking,Avoid high-impact activities that risk injury
+Myasthenia Gravis,Walking|yoga,High-intensity workouts that cause muscle fatigue
+Cerebral Palsy,Swimming|gentle stretching,Strenuous activities without physical support
+Ataxia,Light yoga|walking,Exercises requiring high coordination and balance
+Prostate Cancer,Walking|light yoga (post-treatment),Avoid strenuous activities during recovery
+Bladder Cancer,Walking|light stretching,High-intensity exercises during treatment
+Leprosy,Walking|light yoga,High-impact activities that could cause skin damage
+Multiple Myeloma,Light walking|yoga,Avoid high-impact exercises during bone weakening
+Hemophilia,Swimming|light yoga,Avoid contact sports and activities with high bleeding risk
+Lyme Disease,Walking|light stretching (after recovery),High-intensity workouts during recovery
+Gluten Intolerance,Walking|light yoga,Avoid strenuous exercise after meals
+Vitamin D Deficiency,Walking in sunlight|yoga,Avoid prolonged indoor inactivity
+Hypercalcemia,Walking|light yoga,Avoid intense physical activity that may stress the heart
+Gallbladder Disease,Walking|light yoga (avoid core strain),Exercises that stress the abdomen
+Colon Cancer,Light walking|yoga (after treatment),Avoid strenuous activities during chemotherapy
+Ovarian Cancer,Walking|light yoga (post-treatment),Strenuous activities during treatment
+Vaginitis,Walking|light yoga (after treatment),High-intensity exercises during active infection
+Bacterial Vaginosis,Walking|yoga,Avoid intense cardio during symptoms
+Herpes,Walking|yoga,Avoid exercises that cause friction during outbreaks
+Human Papillomavirus (HPV),Walking|light yoga,Avoid high-intensity cardio during symptoms
+Scabies,Walking|light stretching,Avoid sweaty or friction-heavy exercises
+Syphilis,Walking|light yoga,Avoid high-intensity workouts during symptoms
+Gonorrhea,Walking|yoga,Avoid strenuous activity during symptoms
+Chlamydia,Walking|light yoga,Avoid intense exercises until symptoms subside
+Trichomoniasis,Walking|yoga,Avoid high-impact exercises during infection
+Urinary Tract Infection (UTI),Walking|light yoga (post-treatment),Avoid high-impact cardio during symptoms
+Menopause,Walking|yoga|strength training,High-intensity exercises without hormone management
+Polycystic Ovary Syndrome (PCOS),Walking|swimming|yoga,Exercises that strain the lower abdomen
+Thrombosis,Walking|light yoga,Avoid exercises that increase risk of blood clots
+Chronic Venous Insufficiency,Walking|cycling,Avoid prolonged sitting or standing without movement
+Varicose Veins,Walking|light stretching,Avoid high-impact activities that stress leg veins
+Tendonitis,Swimming|gentle stretching,Avoid high-impact exercises on the affected area
+Achilles Tendon Rupture,Gentle walking|stretching,Avoid high-impact or sprinting activities
+Plantar Fasciitis,Swimming|cycling,Avoid running or high-impact activities on hard surfaces
+Frozen Shoulder,Light stretching|yoga,Avoid heavy upper-body exercises
+Carpal Tunnel Syndrome,Yoga|gentle wrist exercises,Avoid activities that strain the wrists
+Whiplash,Light yoga|stretching,Avoid exercises that involve sudden head or neck movements
+Ankylosing Spondylitis,Swimming|yoga,Avoid exercises that strain the spine
+Lymphedema,Walking|gentle yoga,Avoid high-intensity activities without compression support
+Hypoglycemia,Walking|yoga,Avoid high-intensity cardio without proper carbohydrate intake

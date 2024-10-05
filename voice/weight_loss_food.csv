@@ -1,0 +1,89 @@
+ID,Name,Food Group,Calories,Fat (g),Protein (g),Carbohydrate (g),Sugars (g),Fiber (g),Cholesterol (mg),Veg/Non-Veg
+169111,Steamed Rice with Vegetables,Indian Foods,120,2,4,25,2,4,0,Veg
+169112,Methi (Fenugreek) Soup,Indian Foods,70,2,3,10,1,3,0,Veg
+169113,Grilled Zucchini with Herbs,Indian Foods,80,3,3,12,1,4,0,Veg
+169114,Lauki Thepla (Bottle Gourd),Indian Foods,100,3,4,20,1,3,0,Veg
+169115,Boiled Chickpea Salad,Indian Foods,140,4,8,20,1,6,0,Veg
+169116,Moong Dal Soup,Indian Foods,100,2,7,15,2,5,0,Veg
+169117,Baked Sweet Potato,Indian Foods,120,3,2,22,4,3,0,Veg
+169118,Grilled Paneer Salad (Low Fat),Indian Foods,160,6,12,8,2,3,20,Veg
+169119,Oats Idli,Indian Foods,80,1,3,18,1,2,0,Veg
+169120,Steamed Sprouts Salad,Indian Foods,130,3,8,20,2,5,0,Veg
+169121,Palak Soup (Spinach),Indian Foods,90,2,4,12,2,3,0,Veg
+169122,Mixed Millet Khichdi,Indian Foods,160,4,6,28,2,6,0,Veg
+169123,Cucumber Raita,Indian Foods,60,1,3,7,2,2,10,Veg
+169124,Cauliflower Stir Fry,Indian Foods,90,3,3,12,2,5,0,Veg
+169125,Grilled Chicken (Low Oil),Indian Foods,170,6,25,5,1,1,45,Non-Veg
+169126,Sprouted Moong Dal Pancakes,Indian Foods,100,2,8,15,2,5,0,Veg
+169127,Cabbage and Carrot Stir Fry,Indian Foods,80,2,3,12,2,4,0,Veg
+169128,Boiled Egg Salad,Indian Foods,150,10,12,3,1,0,180,Non-Veg
+169129,Vegetable Millet Upma,Indian Foods,160,4,5,25,2,5,0,Veg
+169130,Steamed Brown Rice,Indian Foods,100,1,3,20,0,2,0,Veg
+169131,Quinoa and Tofu Salad,Indian Foods,160,5,12,20,2,5,0,Veg
+169132,Grilled Tandoori Fish,Indian Foods,180,7,28,4,1,0,55,Non-Veg
+169133,Mixed Vegetable Salad,Indian Foods,70,2,3,10,2,4,0,Veg
+169134,Barley Dalia,Indian Foods,110,2,3,20,1,5,0,Veg
+169135,Moong Dal Tadka (Low Oil),Indian Foods,130,4,8,15,1,4,5,Veg
+169136,Steamed Aloo Tikki (Low Oil),Indian Foods,110,4,3,18,2,4,0,Veg
+169137,Vegetable Ragi Upma,Indian Foods,140,4,4,20,2,5,0,Veg
+169138,Cabbage and Spinach Soup,Indian Foods,80,2,4,12,1,4,0,Veg
+169139,Lentil and Quinoa Soup,Indian Foods,130,4,8,18,1,5,0,Veg
+169140,Lauki Kofta (Low Oil),Indian Foods,120,5,4,15,1,4,0,Veg
+169141,Oats and Carrot Pancake,Indian Foods,110,3,5,18,2,5,0,Veg
+169142,Grilled Mushroom Salad,Indian Foods,100,3,4,15,1,5,0,Veg
+169143,Baked Methi Crackers,Indian Foods,90,2,3,12,1,4,0,Veg
+169144,Cauliflower Rice with Veggies,Indian Foods,110,3,4,15,1,5,0,Veg
+169145,Low Oil Chicken Kebab,Indian Foods,170,6,25,4,1,1,40,Non-Veg
+169146,Mixed Sprouts Soup,Indian Foods,90,2,6,12,1,5,0,Veg
+169147,Boiled Egg and Spinach Salad,Indian Foods,150,9,12,3,1,1,185,Non-Veg
+169148,Quinoa Pulao (Low Oil),Indian Foods,150,4,5,22,2,5,0,Veg
+169149,Grilled Paneer (Low Oil),Indian Foods,160,6,14,10,2,3,15,Veg
+169150,Spinach and Chickpea Soup,Indian Foods,90,2,4,12,2,4,0,Veg
+169151,Lemon Oats Upma,Indian Foods,140,4,5,22,2,5,0,Veg
+169152,Low Oil Aloo Gobi,Indian Foods,130,4,3,18,2,5,0,Veg
+169153,Carrot and Beetroot Stir Fry,Indian Foods,90,2,2,15,3,4,0,Veg
+169154,Baked Vegetable Kebab,Indian Foods,120,4,5,15,2,5,0,Veg
+169111,Steamed Rice with Vegetables,Indian Foods,120,2,4,25,2,4,0,Veg
+169112,Methi (Fenugreek) Soup,Indian Foods,70,2,3,10,1,3,0,Veg
+169113,Grilled Zucchini with Herbs,Indian Foods,80,3,3,12,1,4,0,Veg
+169114,Lauki Thepla (Bottle Gourd),Indian Foods,100,3,4,20,1,3,0,Veg
+169115,Boiled Chickpea Salad,Indian Foods,140,4,8,20,1,6,0,Veg
+169116,Moong Dal Soup,Indian Foods,100,2,7,15,2,5,0,Veg
+169117,Baked Sweet Potato,Indian Foods,120,3,2,22,4,3,0,Veg
+169118,Grilled Paneer Salad (Low Fat),Indian Foods,160,6,12,8,2,3,20,Veg
+169119,Oats Idli,Indian Foods,80,1,3,18,1,2,0,Veg
+169120,Steamed Sprouts Salad,Indian Foods,130,3,8,20,2,5,0,Veg
+169121,Palak Soup (Spinach),Indian Foods,90,2,4,12,2,3,0,Veg
+169122,Mixed Millet Khichdi,Indian Foods,160,4,6,28,2,6,0,Veg
+169123,Cucumber Raita,Indian Foods,60,1,3,7,2,2,10,Veg
+169124,Cauliflower Stir Fry,Indian Foods,90,3,3,12,2,5,0,Veg
+169125,Grilled Chicken (Low Oil),Indian Foods,170,6,25,5,1,1,45,Non-Veg
+169126,Sprouted Moong Dal Pancakes,Indian Foods,100,2,8,15,2,5,0,Veg
+169127,Cabbage and Carrot Stir Fry,Indian Foods,80,2,3,12,2,4,0,Veg
+169128,Boiled Egg Salad,Indian Foods,150,10,12,3,1,0,180,Non-Veg
+169129,Vegetable Millet Upma,Indian Foods,160,4,5,25,2,5,0,Veg
+169130,Steamed Brown Rice,Indian Foods,100,1,3,20,0,2,0,Veg
+169131,Quinoa and Tofu Salad,Indian Foods,160,5,12,20,2,5,0,Veg
+169132,Grilled Tandoori Fish,Indian Foods,180,7,28,4,1,0,55,Non-Veg
+169133,Mixed Vegetable Salad,Indian Foods,70,2,3,10,2,4,0,Veg
+169134,Barley Dalia,Indian Foods,110,2,3,20,1,5,0,Veg
+169135,Moong Dal Tadka (Low Oil),Indian Foods,130,4,8,15,1,4,5,Veg
+169136,Steamed Aloo Tikki (Low Oil),Indian Foods,110,4,3,18,2,4,0,Veg
+169137,Vegetable Ragi Upma,Indian Foods,140,4,4,20,2,5,0,Veg
+169138,Cabbage and Spinach Soup,Indian Foods,80,2,4,12,1,4,0,Veg
+169139,Lentil and Quinoa Soup,Indian Foods,130,4,8,18,1,5,0,Veg
+169140,Lauki Kofta (Low Oil),Indian Foods,120,5,4,15,1,4,0,Veg
+169141,Oats and Carrot Pancake,Indian Foods,110,3,5,18,2,5,0,Veg
+169142,Grilled Mushroom Salad,Indian Foods,100,3,4,15,1,5,0,Veg
+169143,Baked Methi Crackers,Indian Foods,90,2,3,12,1,4,0,Veg
+169144,Cauliflower Rice with Veggies,Indian Foods,110,3,4,15,1,5,0,Veg
+169145,Low Oil Chicken Kebab,Indian Foods,170,6,25,4,1,1,40,Non-Veg
+169146,Mixed Sprouts Soup,Indian Foods,90,2,6,12,1,5,0,Veg
+169147,Boiled Egg and Spinach Salad,Indian Foods,150,9,12,3,1,1,185,Non-Veg
+169148,Quinoa Pulao (Low Oil),Indian Foods,150,4,5,22,2,5,0,Veg
+169149,Grilled Paneer (Low Oil),Indian Foods,160,6,14,10,2,3,15,Veg
+169150,Spinach and Chickpea Soup,Indian Foods,90,2,4,12,2,4,0,Veg
+169151,Lemon Oats Upma,Indian Foods,140,4,5,22,2,5,0,Veg
+169152,Low Oil Aloo Gobi,Indian Foods,130,4,3,18,2,5,0,Veg
+169153,Carrot and Beetroot Stir Fry,Indian Foods,90,2,2,15,3,4,0,Veg
+169154,Baked Vegetable Kebab,Indian Foods,120,4,5,15,2,5,0,Veg

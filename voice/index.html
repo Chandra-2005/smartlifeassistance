@@ -1,0 +1,52 @@
+\\index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheely Voice Assistant</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Wheely Voice Assistant</h1>
+        <form id="queryForm" action="/response" method="POST">
+            <input type="text" id="queryInput" name="query" placeholder="Ask something..." required>
+            <button type="submit">Submit</button>
+        </form>
+
+        <!-- Microphone button -->
+        <div class="mic-container">
+            <img id="micIcon" src="/static/microphone.png" alt="mic" onclick="startVoiceRecognition()" />
+        </div>
+
+        <!-- Graphical loader for voice recording -->
+        <div id="recordingLoader" class="loader" style="display: none;"></div>
+    </div>
+
+    <script>
+        // Web Speech API for voice recognition
+        function startVoiceRecognition() {
+            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+            recognition.lang = 'en-US';
+            recognition.start();
+
+            // Show loader when recording starts
+            document.getElementById('recordingLoader').style.display = 'block';
+
+            recognition.onresult = function(event) {
+                const transcript = event.results[0][0].transcript;
+                document.getElementById('queryInput').value = transcript;
+                document.getElementById('recordingLoader').style.display = 'none';
+            };
+
+            recognition.onerror = function(event) {
+                console.error("Speech recognition error: ", event);
+                document.getElementById('recordingLoader').style.display = 'none';
+            };
+        }
+    </script>
+</body>
+</html>

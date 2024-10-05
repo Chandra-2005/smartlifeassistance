@@ -1,0 +1,16 @@
+Flask
+pandas
+scikit-learn
+pyttsx3
+pvporcupine
+pyaudio
+SpeechRecognition
+wikipedia
+wolframalpha
+openai
+spacy
+transformers
+google-cloud-texttospeech
+numpy
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2

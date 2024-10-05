@@ -1,0 +1,121 @@
+ID,Name,Food Group,Calories,Fat (g),Protein (g),Carbohydrate (g),Sugars (g),Fiber (g),Cholesterol (mg),Veg/Non-Veg
+168001,Butter Chicken,Indian Foods,490,26,35,30,6,2,70,Non-Veg
+168002,Paneer Butter Masala,Indian Foods,425,22,15,32,7,3,40,Veg
+168003,Chicken Biryani,Indian Foods,550,22,30,55,6,3,60,Non-Veg
+168004,Shahi Paneer,Indian Foods,450,24,18,30,6,3,35,Veg
+168005,Malai Kofta,Indian Foods,460,28,12,35,8,4,40,Veg
+168006,Ghee Rice,Indian Foods,390,18,5,50,2,1,10,Veg
+168007,Lamb Rogan Josh,Indian Foods,520,28,40,25,4,2,75,Non-Veg
+168008,Poori with Aloo,Indian Foods,350,20,6,45,4,4,15,Veg
+168009,Rajma Chawal,Indian Foods,380,10,14,60,6,8,5,Veg
+168010,Pav Bhaji,Indian Foods,450,22,7,55,8,5,15,Veg
+168011,Mutton Korma,Indian Foods,580,35,32,25,4,3,80,Non-Veg
+168012,Hyderabadi Biryani,Indian Foods,600,28,35,60,7,4,65,Non-Veg
+168013,Lassi,Indian Foods,240,10,6,30,20,0,15,Veg
+168014,Kesar Pista Kulfi,Indian Foods,300,18,7,25,20,0,25,Veg
+168015,Chole Bhature,Indian Foods,500,20,16,65,8,6,30,Veg
+168016,Paratha with Butter,Indian Foods,400,22,7,50,5,6,20,Veg
+168017,Masala Dosa with Butter,Indian Foods,400,18,7,55,5,4,5,Veg
+168018,Poori with Chana,Indian Foods,380,20,8,45,5,5,20,Veg
+168019,Gajar Halwa,Indian Foods,350,18,5,45,25,3,35,Veg
+168020,Gulab Jamun,Indian Foods,350,12,4,55,35,0,30,Veg
+168021,Jalebi,Indian Foods,400,15,3,65,45,0,5,Veg
+168022,Rasgulla,Indian Foods,200,6,5,30,25,0,5,Veg
+168023,Dal Makhani,Indian Foods,350,18,12,40,6,10,30,Veg
+168024,Pesarattu,Indian Foods,320,14,9,40,4,5,10,Veg
+168025,Paneer Parantha,Indian Foods,400,22,12,50,5,7,15,Veg
+168026,Aloo Parantha,Indian Foods,360,16,7,45,4,5,10,Veg
+168027,Nihari,Indian Foods,600,35,40,25,6,3,85,Non-Veg
+168028,Seviyan Kheer,Indian Foods,320,14,6,45,25,1,15,Veg
+168029,Puliyodarai (Tamarind Rice),Indian Foods,400,18,5,50,4,2,10,Veg
+168030,Kadhi with Pakora,Indian Foods,320,16,6,40,5,4,20,Veg
+168031,Vegetable Pulao,Indian Foods,300,12,6,45,5,3,5,Veg
+168032,Dhokla,Indian Foods,250,10,8,30,4,2,5,Veg
+168033,Upma,Indian Foods,240,10,5,35,4,3,0,Veg
+168034,Besan Ladoo,Indian Foods,320,18,6,35,20,1,10,Veg
+168035,Mysore Pak,Indian Foods,420,22,6,50,30,1,15,Veg
+168036,Rajma,Indian Foods,300,8,10,45,6,8,0,Veg
+168037,Besan Chilla,Indian Foods,250,12,9,30,5,7,0,Veg
+168038,Bhature,Indian Foods,350,15,8,45,5,3,15,Veg
+168039,Imarti,Indian Foods,350,12,5,55,30,0,0,Veg
+168040,Kheer,Indian Foods,320,12,7,45,25,0,20,Veg
+168041,Malabar Parotta,Indian Foods,380,18,4,50,3,4,10,Veg
+168042,Kashmiri Pulao,Indian Foods,450,16,10,65,10,5,15,Veg
+168043,Amritsari Kulcha,Indian Foods,400,15,8,55,5,4,10,Veg
+168044,Sarson Ka Saag with Makki Roti,Indian Foods,500,20,12,65,6,6,25,Veg
+168045,Paneer Tikka,Indian Foods,350,22,15,20,4,2,35,Veg
+168046,Butter Naan,Indian Foods,350,16,7,40,2,3,25,Veg
+168047,Kulfi,Indian Foods,350,22,8,30,25,0,35,Veg
+168048,Mutton Biryani,Indian Foods,600,30,35,60,6,4,70,Non-Veg
+168049,Kesar Badam Milk,Indian Foods,290,12,8,35,20,0,25,Veg
+168050,Aloo Gobi,Indian Foods,300,10,5,45,6,7,0,Veg
+168051,Aloo Tikki,Indian Foods,350,15,6,50,5,4,15,Veg
+168052,Baingan Bharta,Indian Foods,240,10,5,30,4,6,0,Veg
+168053,Paneer Bhurji,Indian Foods,380,20,18,25,3,2,35,Veg
+168054,Palak Paneer,Indian Foods,300,16,14,20,4,5,30,Veg
+168055,Pulao with Vegetables,Indian Foods,320,12,8,45,6,3,5,Veg
+168056,Dahi Bhalla,Indian Foods,200,8,6,25,5,2,5,Veg
+168057,Poori Bhaji,Indian Foods,350,18,5,40,3,4,10,Veg
+168058,Bhindi Masala,Indian Foods,280,12,5,35,3,6,5,Veg
+168059,Pani Puri,Indian Foods,300,10,4,45,8,2,5,Veg
+168060,Dal Tadka,Indian Foods,250,8,10,35,3,6,5,Veg
+168061,Aloo Methi,Indian Foods,290,10,4,40,5,5,0,Veg
+168062,Mutton Vindaloo,Indian Foods,550,32,38,30,5,4,65,Non-Veg
+168063,Masoor Dal,Indian Foods,280,6,12,45,2,8,0,Veg
+168064,Jeera Rice,Indian Foods,320,12,6,45,4,2,5,Veg
+168065,Samosa,Indian Foods,300,16,5,35,5,2,10,Veg
+168066,Mutton Curry,Indian Foods,600,35,38,30,6,3,75,Non-Veg
+168067,Keema Paratha,Indian Foods,400,22,15,40,4,4,35,Non-Veg
+168068,Vegetable Khichdi,Indian Foods,280,10,6,40,4,3,2,Veg
+168069,Aloo Tikki Chaat,Indian Foods,350,18,7,45,6,3,15,Veg
+168070,Mutton Seekh Kebab,Indian Foods,500,28,40,20,4,2,80,Non-Veg
+168071,Dal Bati,Indian Foods,400,18,12,50,5,7,25,Veg
+168072,Roti with Butter,Indian Foods,300,12,6,40,2,5,10,Veg
+168073,Chicken Tikka,Indian Foods,380,22,30,10,2,1,60,Non-Veg
+168074,Paratha,Indian Foods,300,15,4,40,3,5,10,Veg
+168075,Methi Thepla,Indian Foods,250,8,6,35,2,5,5,Veg
+168076,Besan Kadhi,Indian Foods,280,10,8,35,3,4,5,Veg
+168077,Chicken Shawarma,Indian Foods,450,22,30,35,4,2,70,Non-Veg
+168078,Dal Fry,Indian Foods,320,14,12,40,5,6,15,Veg
+168079,Mutton Boti Kebab,Indian Foods,540,32,35,15,3,1,85,Non-Veg
+168080,Palak Pakora,Indian Foods,300,16,8,30,2,5,10,Veg
+168081,Paneer Tikka Masala,Indian Foods,480,25,18,45,6,4,40,Veg
+168082,Goan Fish Curry,Indian Foods,500,28,35,20,4,1,60,Non-Veg
+168083,Paya Soup,Indian Foods,350,18,25,10,1,1,55,Non-Veg
+168084,Vegetable Momos,Indian Foods,280,10,7,35,3,4,2,Veg
+168085,Chicken Momos,Indian Foods,320,14,20,30,2,2,50,Non-Veg
+168086,Chana Masala,Indian Foods,290,10,12,40,5,6,10,Veg
+168087,Kulcha,Indian Foods,280,8,6,40,4,4,10,Veg
+168088,Andhra Chicken Curry,Indian Foods,530,28,35,25,4,2,75,Non-Veg
+168089,Rava Idli,Indian Foods,220,6,5,35,2,3,2,Veg
+168090,Podi Dosa,Indian Foods,400,18,6,55,4,4,5,Veg
+168091,Chicken Chettinad,Indian Foods,550,30,38,25,5,3,80,Non-Veg
+168092,Medu Vada,Indian Foods,350,15,7,40,3,5,0,Veg
+168093,Thalassery Biryani,Indian Foods,600,28,35,60,5,4,70,Non-Veg
+168094,Kosha Mangsho,Indian Foods,520,28,40,25,4,2,75,Non-Veg
+168095,Besan Chilla with Veggies,Indian Foods,270,12,10,30,4,7,0,Veg
+168096,Khar (Assamese dish),Indian Foods,350,20,30,10,1,2,50,Non-Veg
+168097,Masala Kachori,Indian Foods,360,16,5,45,3,2,10,Veg
+168098,Fish Tikka,Indian Foods,380,22,30,10,2,1,65,Non-Veg
+168099,Chenna Poda,Indian Foods,320,12,7,40,20,2,10,Veg
+168100,Dahi Puri,Indian Foods,280,10,6,35,5,4,5,Veg
+168101,Sambar with Rice,Indian Foods,350,8,10,55,6,8,0,Veg
+168102,Prawn Curry,Indian Foods,480,28,35,20,4,2,65,Non-Veg
+168103,Aloo Tikki Burger,Indian Foods,420,20,8,50,6,5,10,Veg
+168104,Chicken Kebab,Indian Foods,400,22,30,20,2,1,70,Non-Veg
+168105,Dal Baati Churma,Indian Foods,550,25,15,65,6,8,20,Veg
+168106,Rasgulla,Indian Foods,200,6,5,30,25,0,5,Veg
+168107,Idiyappam with Coconut Milk,Indian Foods,320,12,5,45,4,3,0,Veg
+168108,Pineapple Sheera,Indian Foods,300,10,5,45,25,1,10,Veg
+168109,Keema Pav,Indian Foods,460,24,35,30,4,2,65,Non-Veg
+168110,Paruppu Vadai,Indian Foods,350,18,7,40,3,5,0,Veg
+168111,Mutton Samosa,Indian Foods,450,28,20,35,3,2,55,Non-Veg
+168112,Banana Chips,Indian Foods,250,14,2,30,2,3,0,Veg
+168113,Thengai Paal Payasam,Indian Foods,300,12,6,45,25,1,20,Veg
+168114,Chicken Changezi,Indian Foods,580,32,38,25,4,2,75,Non-Veg
+168115,Dosa with Sambhar,Indian Foods,400,14,7,55,4,5,5,Veg
+168116,Shahi Tukda,Indian Foods,360,18,6,45,25,0,35,Veg
+168117,Kharzi,Indian Foods,450,16,20,60,6,3,15,Veg
+168118,Mysore Bonda,Indian Foods,340,14,6,45,4,4,0,Veg
+168119,Bhakarwadi,Indian Foods,300,14,5,40,4,2,10,Veg
+168120,Ragi Mudde,Indian Foods,280,6,8,45,2,5,0,Veg
