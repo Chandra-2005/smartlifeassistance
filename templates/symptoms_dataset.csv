@@ -1,0 +1,56 @@
+Disease,Symptoms
+Flu,Fever, Cough, Sore throat, Body ache, Headache, Fatigue, Chills, Runny or stuffy nose
+COVID-19,Fever, Cough, Shortness of breath, Loss of taste, Loss of smell, Fatigue, Sore throat, Muscle or body aches, Headache, Congestion or runny nose, Nausea or vomiting, Diarrhea
+Migraine,Headache, Nausea, Vomiting, Sensitivity to light, Sensitivity to sound, Aura, Blurred vision
+Food Poisoning,Nausea, Vomiting, Diarrhea, Stomach cramps, Fever, Headache, Muscle pain
+Heart Disease,Chest pain, Palpitations, Shortness of breath, Fatigue, Dizziness, Nausea, Sweating
+Anxiety,Dizziness, Insomnia, Rapid heartbeat, Nausea, Restlessness, Irritability, Difficulty concentrating, Sweating
+Depression,Persistent sadness, Loss of interest, Fatigue, Mood swings, Changes in appetite, Difficulty sleeping, Feelings of worthlessness
+Arthritis,Joint pain, Stiffness, Swelling, Reduced range of motion, Tenderness, Fatigue, Warmth in the joint
+Allergic Reaction,Rash, Itchy skin, Swelling, Difficulty breathing, Hives, Nasal congestion, Watery eyes
+Allergic Rhinitis,Sneezing, Runny nose, Itchy eyes, Nasal congestion, Coughing, Fatigue, Postnasal drip
+Dehydration,Dry mouth, Thirst, Fatigue, Dizziness, Dark yellow urine, Confusion, Rapid heartbeat
+Diabetes,Blurred vision, Frequent urination, Increased thirst, Fatigue, Weight loss, Slow healing of wounds, Frequent infections
+Fibromyalgia,Fatigue, Muscle pain, Sleep disturbances, Cognitive difficulties, Headaches, Anxiety, Depression
+Dementia,Memory loss, Confusion, Difficulty with language, Changes in mood, Disorientation, Difficulty with planning and organizing
+Endometriosis,Heavy menstrual bleeding, Pelvic pain, Pain during intercourse, Fatigue, Bloating, Nausea
+Asthma,Chest tightness, Wheezing, Shortness of breath, Coughing, Difficulty sleeping, Fatigue
+Hyperthyroidism,Tremors, Sensitivity to heat, Weight loss, Rapid heartbeat, Increased appetite, Nervousness, Sweating
+Hypothyroidism,Cold intolerance, Weight gain, Fatigue, Depression, Dry skin, Hair loss, Constipation
+Multiple Sclerosis,Numbness, Difficulty walking, Fatigue, Blurred vision, Tingling, Muscle spasms, Dizziness
+Alzheimer's Disease,Memory loss, Difficulty with tasks, Confusion, Changes in mood, Difficulty recognizing familiar people, Poor judgment
+Stroke,Slurred speech, Facial drooping, Loss of coordination, Severe headache, Confusion, Difficulty walking
+Chronic Fatigue Syndrome,Fatigue, Muscle pain, Sleep disturbances, Memory issues, Sore throat, Headaches, Tender lymph nodes
+Myasthenia Gravis,Muscle weakness, Double vision, Difficulty swallowing, Fatigue, Drooping eyelids, Shortness of breath
+Irritable Bowel Syndrome (IBS),Abdominal pain, Bloating, Constipation, Diarrhea, Gas, Mucus in stool, Nausea
+Gastroesophageal Reflux Disease (GERD),Chest pain, Heartburn, Difficulty swallowing, Regurgitation, Sore throat, Coughing
+Appendicitis,Abdominal pain, Nausea, Vomiting, Loss of appetite, Fever, Swelling in the abdomen
+Pneumonia,Cough, Fever, Shortness of breath, Chest pain, Fatigue, Nausea, Vomiting
+Bronchitis,Cough, Mucus production, Fatigue, Shortness of breath, Chest discomfort, Wheezing
+Kidney Disease,Swelling, Fatigue, Changes in urination, Nausea, Shortness of breath, Confusion, High blood pressure
+Liver Disease,Jaundice, Fatigue, Abdominal pain, Swelling in the legs, Loss of appetite, Nausea, Confusion
+Sickle Cell Disease,Pain episodes, Fatigue, Swelling in hands and feet, Frequent infections, Delayed growth
+HIV/AIDS,Weight loss, Fatigue, Frequent infections, Night sweats, Swollen lymph nodes, Skin rashes
+Acid Reflux,Heartburn, Regurgitation, Chest pain, Difficulty swallowing, Sour taste in mouth, Chronic cough
+Anemia,Fatigue, Weakness, Pale skin, Shortness of breath, Dizziness, Cold hands and feet, Irregular heartbeats
+Celiac Disease,Diarrhea, Bloating, Gas, Fatigue, Weight loss, Skin rash, Osteoporosis
+Chronic Obstructive Pulmonary Disease (COPD),Cough, Shortness of breath, Wheezing, Chest tightness, Fatigue, Frequent respiratory infections
+Cushing's Syndrome,Weight gain, Fatigue, Muscle weakness, High blood pressure, Mood changes, Purple stretch marks
+Dengue Fever,High fever, Severe headache, Pain behind the eyes, Joint pain, Muscle and bone pain, Rash, Mild bleeding
+Eczema,Itchy skin, Red inflamed patches, Dry skin, Cracking skin, Oozing, Thickened skin
+Epilepsy,Seizures, Uncontrollable jerking movements, Loss of consciousness, Confusion, Anxiety, Fear
+Gout,Joint pain, Swelling, Redness, Tenderness, Stiffness, Discomfort during the night
+Hepatitis A,Fever, Fatigue, Nausea, Abdominal pain, Loss of appetite, Dark urine, Jaundice
+Hepatitis B,Fever, Fatigue, Nausea, Abdominal pain, Joint pain, Dark urine, Jaundice
+Irritable Bowel Disease (IBD),Abdominal pain, Cramping, Diarrhea, Weight loss, Fatigue, Anemia
+Lyme Disease,Rash, Fever, Chills, Fatigue, Muscle and joint aches, Headaches
+Parkinson's Disease,Tremors, Stiffness, Slowed movement, Balance problems, Changes in speech, Writing changes
+Post-Traumatic Stress Disorder (PTSD),Flashbacks, Nightmares, Severe anxiety, Uncontrollable thoughts, Avoidance, Numbness
+Psoriasis,Red patches of skin covered with thick, silvery scales, Dry and cracked skin, Itching, Burning, Thickened nails
+Raynaud's Disease,Cold fingers or toes, Color changes in response to cold or stress, Numbness or prickly feeling, Pain
+Rheumatoid Arthritis,Joints that are swollen, warm, and painful, Morning stiffness, Fatigue, Fever, Weight loss
+Scabies,Itching, Rash, Sores, Red bumps, Thin, irregular burrow tracks on the skin
+Sleep Apnea,Loud snoring, Episodes of breathing cessation during sleep, Gasping for air during sleep, Morning headache, Excessive daytime sleepiness
+Tuberculosis (TB),Coughing up blood, Night sweats, Weight loss, Fever, Chills, Fatigue
+Varicose Veins,Swollen veins, Aching, Heavy legs, Swollen feet or ankles, Skin discoloration
+Zika Virus,Fever, Rash, Joint pain, Conjunctivitis, Muscle pain, Headache

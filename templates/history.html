@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search History</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            margin: 0;
+            padding: 20px;
+            color: #343a40;
+            transition: background-color 0.5s ease;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+            transition: color 0.3s;
+        }
+
+        h1:hover {
+            color: #0056b3; /* Change color on hover */
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        li {
+            background-color: #ffffff;
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+            transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        li:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            background-color: #e0f7fa; /* Change background on hover */
+        }
+
+        .timestamp {
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .pagination li {
+            margin: 0 5px;
+        }
+
+        .pagination a {
+            text-decoration: none;
+            color: #007bff;
+            padding: 10px 15px;
+            border: 1px solid #007bff;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+            font-weight: bold;
+            position: relative; /* Added for pseudo-element effect */
+            overflow: hidden; /* Ensure the pseudo-element doesn't overflow */
+        }
+
+        .pagination a::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 300%;
+            height: 300%;
+            background: rgba(0, 123, 255, 0.2);
+            border-radius: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            transition: transform 0.5s;
+            z-index: 0; /* Send the pseudo-element behind the link text */
+        }
+
+        .pagination a:hover::before {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        .pagination a:hover {
+            color: #ffffff;
+            background-color: #007bff;
+        }
+
+        .active a {
+            background-color: #007bff;
+            color: #ffffff;
+            border: none;
+        }
+
+        /* Back button style */
+        .back-button {
+            display: inline-block;
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-bottom: 20px;
+            transition: background-color 0.3s, transform 0.3s;
+            text-align: center;
+        }
+
+        .back-button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05); /* Scale effect on hover */
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            li {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Search History</h1>
+
+    <!-- Back Button -->
+    <a href="{{ url_for('recommendation') }}" class="back-button">Back</a>
+
+    <ul>
+        {% for record in history_records %}
+            <li>
+                <span>{{ record['food_name'] }}</span>
+                <span class="timestamp">{{ record['timestamp'] }}</span>
+            </li>
+        {% endfor %}
+    </ul>
+
+    {% if total > per_page %}
+        <nav>
+            <ul class="pagination">
+                {% if page > 1 %}
+                    <li><a href="{{ url_for('history', page=page-1) }}">Previous</a></li>
+                {% endif %}
+                {% for p in range(1, (total // per_page) + 2) %}
+                    <li class="{% if p == page %}active{% endif %}">
+                        <a href="{{ url_for('history', page=p) }}">{{ p }}</a>
+                    </li>
+                {% endfor %}
+                {% if page < (total // per_page) + 1 %}
+                    <li><a href="{{ url_for('history', page=page+1) }}">Next</a></li>
+                {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+</body>
+</html>
+    

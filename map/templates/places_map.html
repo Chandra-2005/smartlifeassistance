@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_55d6c598cf2b0b2908d51cd31a78a899 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_55d6c598cf2b0b2908d51cd31a78a899" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_55d6c598cf2b0b2908d51cd31a78a899 = L.map(
+                "map_55d6c598cf2b0b2908d51cd31a78a899",
+                {
+                    center: [20.5937, 78.9629],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ab7f0e0b035266409d10db5edfc57454 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_ab7f0e0b035266409d10db5edfc57454.addTo(map_55d6c598cf2b0b2908d51cd31a78a899);
+        
+    
+            var marker_91a5df68d947c7a84995cf4edaff84ba = L.marker(
+                [27.1751, 78.0421],
+                {}
+            ).addTo(map_55d6c598cf2b0b2908d51cd31a78a899);
+        
+    
+        var popup_b91333b85ce29378c919462d25510bc8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f9570726480c6cbb01d828eb89d268e6 = $(`<div id="html_f9570726480c6cbb01d828eb89d268e6" style="width: 100.0%; height: 100.0%;">Taj Mahal</div>`)[0];
+                popup_b91333b85ce29378c919462d25510bc8.setContent(html_f9570726480c6cbb01d828eb89d268e6);
+            
+        
+
+        marker_91a5df68d947c7a84995cf4edaff84ba.bindPopup(popup_b91333b85ce29378c919462d25510bc8)
+        ;
+
+        
+    
+    
+            marker_91a5df68d947c7a84995cf4edaff84ba.bindTooltip(
+                `<div>
+                     Taj Mahal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_efd38b51b0a215a9a76a5ba5b67c7ee7 = L.marker(
+                [18.9219, 72.8346],
+                {}
+            ).addTo(map_55d6c598cf2b0b2908d51cd31a78a899);
+        
+    
+        var popup_d8ea7e31c516becb59d960458edb3932 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c513d7f9f66dc2d65c0aa741dfd38cef = $(`<div id="html_c513d7f9f66dc2d65c0aa741dfd38cef" style="width: 100.0%; height: 100.0%;">Gateway of India</div>`)[0];
+                popup_d8ea7e31c516becb59d960458edb3932.setContent(html_c513d7f9f66dc2d65c0aa741dfd38cef);
+            
+        
+
+        marker_efd38b51b0a215a9a76a5ba5b67c7ee7.bindPopup(popup_d8ea7e31c516becb59d960458edb3932)
+        ;
+
+        
+    
+    
+            marker_efd38b51b0a215a9a76a5ba5b67c7ee7.bindTooltip(
+                `<div>
+                     Gateway of India
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_497795f67d74f3c5cc1de09ebefc010c = L.marker(
+                [13.0493, 80.2824],
+                {}
+            ).addTo(map_55d6c598cf2b0b2908d51cd31a78a899);
+        
+    
+        var popup_6ec4616e6e5914ad81745df36075cc55 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_66421d25a43afbf5023de13f1a01c85a = $(`<div id="html_66421d25a43afbf5023de13f1a01c85a" style="width: 100.0%; height: 100.0%;">Marina Beach</div>`)[0];
+                popup_6ec4616e6e5914ad81745df36075cc55.setContent(html_66421d25a43afbf5023de13f1a01c85a);
+            
+        
+
+        marker_497795f67d74f3c5cc1de09ebefc010c.bindPopup(popup_6ec4616e6e5914ad81745df36075cc55)
+        ;
+
+        
+    
+    
+            marker_497795f67d74f3c5cc1de09ebefc010c.bindTooltip(
+                `<div>
+                     Marina Beach
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ef7d706873dc1a9429c0a592301f013d = L.marker(
+                [12.9763, 77.5929],
+                {}
+            ).addTo(map_55d6c598cf2b0b2908d51cd31a78a899);
+        
+    
+        var popup_ab3dee2db35a733a79197775337c5292 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7c9b0af0ef49e32f7769a59705ab0c04 = $(`<div id="html_7c9b0af0ef49e32f7769a59705ab0c04" style="width: 100.0%; height: 100.0%;">Cubbon Park</div>`)[0];
+                popup_ab3dee2db35a733a79197775337c5292.setContent(html_7c9b0af0ef49e32f7769a59705ab0c04);
+            
+        
+
+        marker_ef7d706873dc1a9429c0a592301f013d.bindPopup(popup_ab3dee2db35a733a79197775337c5292)
+        ;
+
+        
+    
+    
+            marker_ef7d706873dc1a9429c0a592301f013d.bindTooltip(
+                `<div>
+                     Cubbon Park
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

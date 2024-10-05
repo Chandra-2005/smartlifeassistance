@@ -1,0 +1,101 @@
+ID,name,Food Group,Calories,Fat (g),Protein (g),Carbohydrate (g),Sugars (g),Fiber (g),Cholesterol (mg)
+168001,Butter Chicken,Indian Foods,490,26,35,30,6,2,70
+168002,Paneer Butter Masala,Indian Foods,425,22,15,32,7,3,40
+168003,Chicken Biryani,Indian Foods,550,22,30,55,6,3,60
+168004,Shahi Paneer,Indian Foods,450,24,18,30,6,3,35
+168005,Malai Kofta,Indian Foods,460,28,12,35,8,4,40
+168006,Ghee Rice,Indian Foods,390,18,5,50,2,1,10
+168007,Lamb Rogan Josh,Indian Foods,520,28,40,25,4,2,75
+168008,Poori with Aloo,Indian Foods,350,20,6,45,4,4,15
+168009,Rajma Chawal,Indian Foods,380,10,14,60,6,8,5
+168010,Pav Bhaji,Indian Foods,450,22,7,55,8,5,15
+168011,Mutton Korma,Indian Foods,580,35,32,25,4,3,80
+168012,Hyderabadi Biryani,Indian Foods,600,28,35,60,7,4,65
+168013,Lassi,Indian Foods,240,10,6,30,20,0,15
+168014,Kesar Pista Kulfi,Indian Foods,300,18,7,25,20,0,25
+168015,Chole Bhature,Indian Foods,500,20,16,65,8,6,30
+168016,Paratha with Butter,Indian Foods,400,22,7,50,5,6,20
+168017,Masala Dosa with Butter,Indian Foods,400,18,7,55,5,4,5
+168018,Poori with Chana,Indian Foods,380,20,8,45,5,5,20
+168019,Gajar Halwa,Indian Foods,350,18,5,45,25,3,35
+168020,Gulab Jamun,Indian Foods,350,12,4,55,35,0,30
+168021,Jalebi,Indian Foods,400,15,3,65,45,0,5
+168022,Rasgulla,Indian Foods,200,6,5,30,25,0,5
+168023,Dal Makhani,Indian Foods,350,18,12,40,6,10,30
+168024,Pesarattu,Indian Foods,320,14,9,40,4,5,10
+168025,Paneer Parantha,Indian Foods,400,22,12,50,5,7,15
+168026,Aloo Parantha,Indian Foods,360,16,7,45,4,5,10
+168027,Nihari,Indian Foods,600,35,40,25,6,3,85
+168028,Seviyan Kheer,Indian Foods,320,14,6,45,25,1,15
+168029,Puliyodarai (Tamarind Rice),Indian Foods,400,18,5,50,4,2,10
+168030,Kadhi with Pakora,Indian Foods,320,16,6,40,5,4,20
+168031,Vegetable Pulao,Indian Foods,300,12,6,45,5,3,5
+168032,Dhokla,Indian Foods,250,10,8,30,4,2,5
+168033,Upma,Indian Foods,240,10,5,35,4,3,0
+168034,Besan Ladoo,Indian Foods,320,18,6,35,20,1,10
+168035,Mysore Pak,Indian Foods,420,22,6,50,30,1,15
+168036,Rajma,Indian Foods,300,8,10,45,6,8,0
+168037,Besan Chilla,Indian Foods,250,12,9,30,5,7,0
+168038,Bhature,Indian Foods,350,15,8,45,5,3,15
+168039,Imarti,Indian Foods,350,12,5,55,30,0,0
+168040,Kheer,Indian Foods,320,12,7,45,25,0,20
+168041,Malabar Parotta,Indian Foods,380,18,4,50,3,4,10
+168042,Kashmiri Pulao,Indian Foods,450,16,10,65,10,5,15
+168043,Amritsari Kulcha,Indian Foods,400,15,8,55,5,4,10
+168044,Sarson Ka Saag with Makki Roti,Indian Foods,500,20,12,65,6,6,25
+168045,Paneer Tikka,Indian Foods,350,22,15,20,4,2,35
+168046,Butter Naan,Indian Foods,350,16,7,40,2,3,25
+168047,Kulfi,Indian Foods,350,22,8,30,25,0,35
+168048,Mutton Biryani,Indian Foods,600,30,35,60,6,4,70
+168049,Kesar Badam Milk,Indian Foods,290,12,8,35,20,0,25
+168050,Aloo Gobi,Indian Foods,300,10,5,45,6,7,0
+168051,Aloo Tikki,Indian Foods,350,15,6,50,5,4,15
+168052,Baingan Bharta,Indian Foods,240,10,5,30,4,6,0
+168053,Paneer Bhurji,Indian Foods,380,20,18,25,3,2,35
+168054,Palak Paneer,Indian Foods,300,16,14,20,4,5,30
+168055,Pulao with Vegetables,Indian Foods,320,12,8,45,6,3,5
+168056,Dahi Bhalla,Indian Foods,200,8,6,25,5,2,5
+168057,Poori Bhaji,Indian Foods,350,18,5,40,3,4,10
+168058,Bhindi Masala,Indian Foods,280,12,5,35,3,6,5
+168059,Pani Puri,Indian Foods,300,10,4,45,8,2,5
+168060,Dal Tadka,Indian Foods,250,8,10,35,3,6,5
+168061,Aloo Methi,Indian Foods,290,10,4,40,5,5,0
+168062,Mutton Vindaloo,Indian Foods,550,32,38,30,5,4,65
+168063,Masoor Dal,Indian Foods,280,6,12,45,2,8,0
+168064,Jeera Rice,Indian Foods,320,12,6,45,4,2,5
+168065,Samosa,Indian Foods,300,16,5,35,5,2,10
+168066,Mutton Curry,Indian Foods,600,35,38,30,6,3,75
+168067,Keema Paratha,Indian Foods,400,22,15,40,4,4,35
+168068,Vegetable Khichdi,Indian Foods,280,10,6,40,4,3,2
+168069,Aloo Tikki Chaat,Indian Foods,350,18,7,45,6,3,15
+168070,Mutton Seekh Kebab,Indian Foods,500,28,40,20,4,2,80
+168071,Dal Bati,Indian Foods,400,18,12,50,5,7,25
+168072,Roti with Butter,Indian Foods,300,12,6,40,2,5,10
+168073,Chicken Tikka,Indian Foods,380,22,35,10,3,2,55
+168074,Chicken Korma,Indian Foods,520,32,35,20,5,3,70
+168075,Pesarattu Upma,Indian Foods,350,14,12,40,5,5,10
+168076,Paneer Bhurji with Paratha,Indian Foods,450,22,18,50,6,6,20
+168077,Kadai Paneer,Indian Foods,380,20,15,25,4,4,30
+168078,Mutton Pulao,Indian Foods,600,30,35,55,6,4,65
+168079,Dal Palak,Indian Foods,300,8,12,40,5,6,5
+168080,Bhindi Fry,Indian Foods,280,14,4,35,3,7,0
+168081,Aloo Puri,Indian Foods,350,18,6,45,4,4,15
+168082,Chicken Pakora,Indian Foods,400,22,30,25,5,3,55
+168083,Kachori,Indian Foods,350,18,5,45,5,2,15
+168084,Pav Bhaji with Cheese,Indian Foods,500,28,10,55,10,5,20
+168085,Veg Hakka Noodles,Indian Foods,350,12,8,50,4,2,5
+168086,Sweet Pongal,Indian Foods,380,16,6,50,20,2,10
+168087,Paneer Kofta,Indian Foods,450,25,12,35,8,3,30
+168088,Thalipeeth,Indian Foods,350,12,10,45,5,6,5
+168089,Rava Dosa,Indian Foods,300,10,5,40,4,2,5
+168090,Kofta Curry,Indian Foods,400,22,10,30,5,3,20
+168091,Prawn Biryani,Indian Foods,550,25,30,55,5,3,60
+168092,Butter Chicken with Naan,Indian Foods,750,36,45,65,8,5,95
+168093,Aloo Chana Chaat,Indian Foods,350,12,8,45,8,6,5
+168094,Mutton Keema,Indian Foods,450,30,35,20,4,3,65
+168095,Dal Fry,Indian Foods,300,12,10,35,4,5,10
+168096,Bhatura with Chole,Indian Foods,500,20,14,65,6,4,30
+168097,Kaju Katli,Indian Foods,380,18,6,45,25,2,5
+168098,Chana Dal Halwa,Indian Foods,420,20,8,50,30,2,15
+168099,Kesar Rasmalai,Indian Foods,350,15,6,40,30,0,25
+168100,Sooji Halwa,Indian Foods,350,16,5,45,25,1,10

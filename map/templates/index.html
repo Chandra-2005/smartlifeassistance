@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Place Recommendation</title>
+    <script>
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function showPosition(position) {
+            document.getElementById('lat').value = position.coords.latitude;
+            document.getElementById('lon').value = position.coords.longitude;
+        }
+    </script>
+</head>
+<body onload="getLocation()">
+    <h1>Place Recommendation System</h1>
+    <form action="/recommend" method="post">
+        <label for="lat">Latitude:</label>
+        <input type="text" id="lat" name="lat" required readonly><br>
+        <label for="lon">Longitude:</label>
+        <input type="text" id="lon" name="lon" required readonly><br>
+        <label for="budget">Budget:</label>
+        <input type="text" id="budget" name="budget" required><br>
+        <label for="place_type">Place Type:</label>
+        <select id="place_type" name="place_type" required>
+            <option value="historical">Historical</option>
+            <option value="beach">Beach</option>
+            <option value="park">Park</option>
+        </select><br>
+        <input type="submit" value="Get Recommendation">
+    </form>
+</body>
+</html>

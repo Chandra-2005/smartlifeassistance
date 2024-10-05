@@ -1,0 +1,185 @@
+Disease/Symptom,Symptoms,Recommended Foods,Not Recommended Foods
+Cold,Sneezing|Sore throat|Cough|Runny nose,Citrus fruits|Ginger|Garlic|Honey,Sugary foods|Alcohol
+Flu,Fever|Body aches|Chills|Cough,Broth-based soups|Ginger|Garlic|Honey|Turmeric,Fried foods|Dairy|Sugary foods
+Hypertension,High blood pressure|Headache|Dizziness,Leafy greens|Berries|Oats,Salt|Processed foods|Alcohol
+Diabetes,Frequent urination|Excessive thirst|Fatigue,Whole grains|Leafy greens|Berries,Sugary foods|White bread
+Anemia,Fatigue|Dizziness|Pale skin,Red meat|Dark leafy greens|Lentils,Tea|Coffee|Dairy
+Asthma,Shortness of breath|Wheezing|Cough,Apples|Bananas|Spinach,Sugary foods|Fried foods
+Allergies,Sneezing|Itchy eyes|Rash,Quinoa|Brown rice|Green tea,Processed foods|Dairy
+Heart Disease,Chest pain|Fatigue|Shortness of breath,Oats|Salmon|Walnuts,Saturated fats|Trans fats
+Gout,Joint pain|Swelling|Redness,Cherries|Low-fat dairy|Green vegetables,Red meat|Organ meats|Sugary beverages
+Kidney Disease,Swelling|Fatigue|Shortness of breath,Apples|Cauliflower|Blueberries,High potassium foods|High phosphorus foods
+Irritable Bowel Syndrome,Abdominal pain|Bloating|Diarrhea|Constipation,Oats|Bananas|Rice,Fried foods|Dairy
+Disease/Symptom,Symptoms,Recommended Foods,Not Recommended Foods
+Migraine,Severe headache|Nausea|Sensitivity to light,Spinach|Quinoa|Almonds,Caffeinated beverages|Aged cheeses
+Celiac Disease,Diarrhea|Bloating|Fatigue,Gluten-free grains|Fruits|Vegetables,Gluten-containing foods|Processed foods
+Arthritis,Joint pain|Stiffness|Swelling,Fatty fish|Olive oil|Nuts,Refined carbs|Sugary snacks
+Chronic Fatigue Syndrome,Fatigue|Muscle pain|Sleep disturbances,Quinoa|Sweet potatoes|Spinach,Caffeinated drinks|Alcohol
+Acid Reflux,Heartburn|Regurgitation|Dysphagia,Oatmeal|Bananas|Ginger,Spicy foods|Chocolate|Citrus
+Cholesterol,High cholesterol|Chest pain|Fatigue,Oats|Nuts|Fatty fish,Saturated fats|Trans fats
+Pneumonia,Cough|Chest pain|Fever,Chicken soup|Garlic|Ginger,Sugary foods|Alcohol|Dairy
+Thyroid Problems,Weight changes|Fatigue|Sensitivity to cold|Heat,Seafood|Iodine-rich foods|Leafy greens,Cruciferous vegetables|Soy
+Peptic Ulcer,Abdominal pain|Bloating|Nausea,Yogurt|Bananas|Cabbage,Spicy foods|Alcohol|Caffeine
+Kidney Stones,Severe pain|Nausea|Blood in urine,Water|Lemon juice|Celery,High-oxalate foods|Sugary drinks
+Psoriasis,Red patches|Itchy skin|Dry skin,Avocados|Salmon|Walnuts,Processed foods|Sugary snacks|Alcohol
+Depression,Low mood|Fatigue|Changes in sleep patterns,Leafy greens|Fatty fish|Berries,Sugary foods|Refined carbs
+Anxiety,Restlessness|Fatigue|Difficulty concentrating,Nuts|Dark chocolate|Green tea,Caffeinated beverages|Sugary foods
+Acne,Whiteheads|Blackheads|Cysts,Green tea|Fatty fish|Whole grains,Dairy|Processed foods|Sugary snacks
+Eczema,Dry skin|Itching|Red patches,Avocado|Oatmeal|Sweet potatoes,Dairy|Processed foods|Sugary snacks
+Osteoporosis,Fractures|Loss of height|Back pain,Dairy|Leafy greens|Fish,High-sodium foods|Refined sugars
+Parkinson's Disease,Tremors|Stiffness|Balance problems,Dark leafy greens|Berries|Fatty fish,Saturated fats|Trans fats
+Bipolar Disorder,Extreme mood swings|Changes in sleep patterns,Omega-3 rich foods|Leafy greens|Berries,Processed foods|Sugary snacks
+Autism Spectrum Disorder,Difficulty in social interactions|Repetitive behaviors,Fish|Nuts|Seeds,Artificial colors|Sugary foods
+Attention Deficit Hyperactivity Disorder (ADHD),Inattention|Hyperactivity|Impulsivity,Fruits|Vegetables|Whole grains,Sugary foods|Caffeine
+Alzheimer's Disease,Memory loss|Difficulty in planning|Confusion,Fatty fish|Nuts|Berries,Processed foods|Sugary snacks
+Post-Traumatic Stress Disorder (PTSD),Flashbacks|Avoidance|Hyperarousal,Omega-3 rich foods|Leafy greens|Berries,Caffeinated drinks|Sugary foods
+Schizophrenia,Hearing voices|Delusions|Disorganized thinking,Omega-3 fatty acids|Fruits|Vegetables,Sugary foods|Refined carbs
+Chronic Obstructive Pulmonary Disease (COPD),Breathlessness|Chronic cough|Wheezing,Fruits|Vegetables|Fish,Dairy|Processed foods|Sugary drinks
+Tuberculosis,Cough|Chest pain|Weight loss,High-protein foods|Fruits|Vegetables,Dairy|Sugary foods|Processed foods
+Hepatitis,Abdominal pain|Fatigue|Nausea,Lean proteins|Fruits|Vegetables,Alcohol|High-fat foods|Sugary foods
+Bacterial Infections,Fever|Chills|Fatigue,Garlic|Onions|Turmeric,Sugary foods|Processed foods|Fried foods
+Viral Infections,Fever|Cough|Sore throat,Chicken soup|Garlic|Ginger,Sugary foods|Dairy|Alcohol
+Candidiasis,Itching|Fatigue|Digestive issues,Yogurt|Garlic|Coconut oil,Sugary foods|Processed foods|Alcohol
+Fibromyalgia,Chronic pain|Fatigue|Sleep issues,Omega-3 fatty acids|Leafy greens|Fruits,Caffeinated beverages|Sugary foods
+Obesity,Excess body fat|Fatigue|Breathlessness,Whole grains|Lean proteins|Fruits,Sugary foods|Processed foods|Fried foods
+Diarrhea,Loose stools|Abdominal cramps|Nausea,White rice|Bananas|Applesauce,Dairy|Fatty foods|Sugary snacks
+Constipation,Infrequent bowel movements|Abdominal pain,Whole grains|Fruits|Vegetables,Processed foods|High-fat foods|Dairy
+Gallstones,Abdominal pain|Nausea|Indigestion,Lean proteins|Fruits|Vegetables,Fried foods|Sugary snacks|High-fat foods
+Hives,Itchy skin|Swelling|Redness,Quinoa|Fish|Leafy greens,Sugary foods|Processed foods|Dairy
+Urinary Tract Infection (UTI),Burning sensation|Frequent urination|Lower abdominal pain,Cranberry juice|Water|Yogurt,Sugary foods|Caffeine|Alcohol
+Stroke,Weakness|Confusion|Difficulty speaking,Berries|Leafy greens|Whole grains,High sodium foods|Processed foods|Sugary drinks
+Acne Rosacea,Redness|Bumps|Burning sensation,Omega-3 rich foods|Fruits|Leafy greens,Spicy foods|Alcohol|Caffeine
+Chronic Sinusitis,Nasal congestion|Facial pain|Loss of smell,Spicy foods|Fruits|Leafy greens,Dairy|Sugary foods|Processed foods
+Endometriosis,Pelvic pain|Menstrual irregularities|Pain during intercourse,Leafy greens|Nuts|Seeds,Processed foods|Dairy|Sugary snacks
+Ovarian Cysts,Abdominal pain|Bloating|Menstrual irregularities,Whole grains|Leafy greens|Fish,Processed foods|Sugary snacks|Caffeine
+Menopause,Hot flashes|Mood swings|Sleep disturbances,Flaxseed|Soy|Oatmeal,High-sugar foods|Caffeine|Alcohol
+Prostate Problems,Frequent urination|Painful urination|Blood in urine,Pumpkin seeds|Tomatoes|Broccoli,Sugary foods|Processed meats|Fried foods
+Psoriatic Arthritis,Joint pain|Red patches|Nail changes,Omega-3 rich foods|Leafy greens|Nuts,Processed foods|Sugary snacks|Dairy
+Multiple Sclerosis,Fatigue|Numbness|Coordination issues,Fish|Leafy greens|Nuts,Processed foods|Sugary snacks|Alcohol
+Chronic Kidney Disease,Fatigue|Nausea|Swelling,Fruits|Vegetables|Lean proteins,High potassium foods|Processed foods|Dairy
+Acid Reflux,Heartburn|Regurgitation|Chest pain,Oatmeal|Bananas|Ginger,Spicy foods|Chocolate|Caffeine
+Rosacea,Facial redness|Visible blood vessels|Bumps,Green tea|Omega-3 rich foods|Olive oil,Spicy foods|Alcohol|Sugary foods
+Hyperthyroidism,Weight loss|Nervousness|Increased sweating,Lean proteins|Fruits|Vegetables,Caffeine|Sugary foods|Processed foods
+Hypothyroidism,Fatigue|Weight gain|Cold intolerance,Lean proteins|Fruits|Leafy greens,High-fat foods|Sugary snacks|Processed foods
+Gingivitis,Gum swelling|Bleeding gums|Bad breath,Green tea|Leafy greens|Broccoli,Sugary foods|Processed snacks|Alcohol
+Lupus,Fatigue|Joint pain|Skin rash,Fish|Dark leafy greens|Nuts,Processed foods|Sugary snacks|Dairy
+Hepatitis C,Fatigue|Jaundice|Abdominal pain,Lean proteins|Fruits|Vegetables,Alcohol|Sugary foods|High-fat foods
+Anxiety Disorders,Restlessness|Fatigue|Difficulty concentrating,Nuts|Berries|Leafy greens,Caffeine|Sugary foods|Processed snacks
+Seasonal Affective Disorder (SAD),Low energy|Mood swings|Sleep issues,Omega-3 rich foods|Fruits|Leafy greens,Sugary snacks|Processed foods|Alcohol
+Sleep Apnea,Loud snoring|Daytime fatigue|Difficulty concentrating,Fruits|Vegetables|Whole grains,Sugary foods|Alcohol|Caffeine
+Tension Headaches,Head pain|Tenderness|Sensitivity to light,Herbal tea|Fruits|Vegetables,Processed foods|Sugary snacks|Alcohol
+Dyslexia,Difficulty reading|Writing issues|Spelling problems,Whole grains|Nuts|Lean proteins,Sugary foods|Processed snacks|Dairy
+Asthma,Shortness of breath|Wheezing|Cough,Fish|Fruits|Vegetables,Dairy|Processed foods|Sugary drinks
+Chronic Sinusitis,Nasal congestion|Facial pain|Post-nasal drip,Hot soups|Herbal tea|Fruits,Dairy|Sugary foods|Processed snacks
+Liver Disease,Yellowness|Fatigue|Nausea,Green vegetables|Fruits|Whole grains,Alcohol|High-fat foods|Sugary drinks
+Gastroesophageal Reflux Disease (GERD),Heartburn|Chest pain|Difficulty swallowing,Oatmeal|Bananas|Ginger,Spicy foods|Chocolate|Caffeine
+Rheumatoid Arthritis,Joints swelling|Morning stiffness|Fatigue,Salmon|Walnuts|Olive oil,Saturated fats|Processed foods|Sugary snacks
+HIV/AIDS,Fatigue|Weight loss|Fever,Lean proteins|Fruits|Vegetables,High sugar foods|Processed foods|Alcohol
+
+Bacterial Vaginosis,Unusual discharge|Itching|Odor,Yogurt|Garlic|Leafy greens,Sugary foods|Dairy
+Diverticulitis,Abdominal pain|Bloating|Change in bowel habits,Fiber-rich foods|Yogurt|Nuts,Red meat|Processed foods
+Chronic Migraines,Severe headaches|Sensitivity to light|Nausea,Dark chocolate|Spinach|Fish,Caffeine|Sugary foods
+Hypoglycemia,Shakiness|Sweating|Confusion,Complex carbohydrates|Fruits|Nuts,Sugary foods|Processed snacks
+Chronic Back Pain,Constant pain|Stiffness|Muscle spasms,Turmeric|Ginger|Leafy greens,Processed foods|Sugary snacks
+Obsessive-Compulsive Disorder (OCD),Repetitive behaviors|Anxiety|Intrusive thoughts,Fish|Whole grains|Fruits,Sugary foods|Caffeine
+Irritable Bowel Syndrome (IBS),Abdominal pain|Bloating|Altered bowel habits,Fiber-rich foods|Bananas|Oats,Dairy|Sugary foods
+Panic Disorder,Panic attacks|Rapid heart rate|Nausea,Omega-3 rich foods|Berries|Leafy greens,Sugary foods|Caffeine
+Neurofibromatosis,Changes in skin|Lumps|Pain,Fruits|Vegetables|Whole grains,Sugary foods|High-fat foods
+Chronic Sinusitis,Nasal congestion|Facial pain|Headaches,Saline rinses|Ginger|Turmeric,Alcohol|Sugary foods|Processed snacks
+Gestational Diabetes,High blood sugar|Fatigue|Increased thirst,Whole grains|Fruits|Leafy greens,Sugary foods|Processed snacks
+Cushing's Syndrome,Weight gain|Fatigue|High blood pressure,Lean proteins|Fruits|Vegetables,High-sugar foods|Alcohol|Processed foods
+Chronic Fatigue Syndrome,Fatigue|Sleep disturbances|Joint pain,Whole grains|Lean proteins|Vegetables,Sugary foods|Caffeine
+Anxiety Disorders,Rapid heart rate|Nausea|Restlessness,Chamomile tea|Nuts|Bananas,Caffeine|Sugary snacks
+Scleroderma,Tight skin|Fatigue|Swelling,Fish|Olive oil|Leafy greens,Processed foods|Sugary snacks
+Ehlers-Danlos Syndrome,Joint hypermobility|Skin elasticity|Fatigue,Vitamin C rich foods|Leafy greens|Berries,Processed foods|Sugary snacks
+Multiple Myeloma,Bone pain|Fatigue|Frequent infections,Fish|Lean meats|Fruits,Processed foods|Sugary snacks
+Lupus,Joint pain|Fatigue|Skin rashes,Fatty fish|Dark leafy greens|Fruits,Processed foods|Sugary snacks
+Sarcoidosis,Fatigue|Cough|Shortness of breath,Fruits|Vegetables|Whole grains,Sugary foods|Caffeine
+Thalassemia,Fatigue|Weakness|Pale skin,Iron-rich foods|Dark leafy greens|Legumes,Dairy|Sugary foods
+Sleep Disorders,Insomnia|Daytime fatigue|Difficulty concentrating,Herbal tea|Nuts|Fruits,Caffeine|Sugary foods
+Tinnitus,Ringing in the ears|Hearing loss|Fatigue,Green tea|Spinach|Berries,Processed foods|Sugary snacks
+Hepatitis B,Fatigue|Nausea|Abdominal pain,Lean proteins|Fruits|Vegetables,Alcohol|Sugary foods|High-fat foods
+Cirrhosis,Fatigue|Jaundice|Swelling,Lean meats|Fruits|Leafy greens,Alcohol|Sugary foods|Processed foods
+Tendonitis,Pain|Swelling|Stiffness,Anti-inflammatory foods|Lean proteins|Berries,Fried foods|Sugary snacks
+Pernicious Anemia,Fatigue|Weakness|Nerve damage,Vitamin B12 rich foods|Fish|Eggs,Sugary foods|Processed snacks
+Hidradenitis Suppurativa,Painful lumps|Skin lesions|Discomfort,Turmeric|Leafy greens|Fish,Processed foods|Sugary snacks
+Chronic Pancreatitis,Abdominal pain|Digestive issues|Fatigue,Lean proteins|Fruits|Vegetables,Alcohol|Sugary foods|High-fat foods
+Raynaud's Disease,Cold fingers|Color changes|Numbness,Warm foods|Spices|Garlic,Caffeinated drinks|Sugary foods
+Acromegaly,Enlarged extremities|Joint pain|Fatigue,High-protein foods|Leafy greens|Lean meats,Sugary foods|Processed foods
+Hyperparathyroidism,Fatigue|Bone pain|Kidney stones,Fruits|Vegetables|Whole grains,High-sodium foods|Sugary snacks
+Osteoarthritis,Joint pain|Stiffness|Swelling,Fatty fish|Olive oil|Nuts,Saturated fats|Processed foods|Sugary snacks
+Menopause Symptoms,Hot flashes|Mood swings|Sleep disturbances,Fruits|Vegetables|Whole grains,Caffeine|Sugary foods
+Thyroiditis,Fatigue|Weight changes|Mood swings,Fish|Nuts|Fruits,High-sugar foods|Caffeine|Processed foods
+Fibroids,Heavy periods|Pelvic pain|Frequent urination,Leafy greens|Berries|Whole grains,Sugary foods|Processed snacks
+Hyperemesis Gravidarum,Nausea|Vomiting|Dehydration,Ginger|Bananas|Crackers,Sugary foods|Caffeine|Alcohol
+Chronic Kidney Disease,Fatigue|Nausea|Swelling,Low-protein foods|Fruits|Vegetables,High-potassium foods|Sugary foods|Processed foods
+Nephrotic Syndrome,Swelling|Foamy urine|Fatigue,Lean proteins|Fruits|Vegetables,High-sodium foods|Sugary foods|Processed snacks
+Chronic Bronchitis,Persistent cough|Fatigue|Breathlessness,Lean proteins|Fruits|Vegetables,Dairy|Sugary foods|Processed snacks
+Peripheral Neuropathy,Numbness|Tingling|Pain,Vitamin B rich foods|Leafy greens|Nuts,Sugary foods|Processed snacks|Alcohol
+Polycythemia Vera,Headaches|Dizziness|Fatigue,Hydrating foods|Fruits|Vegetables,Sugary foods|Processed snacks|Alcohol
+Hemophilia,Bleeding|Bruising|Fatigue,Iron-rich foods|Leafy greens|Fruits,High-sodium foods|Sugary snacks|Processed foods
+Erectile Dysfunction,Impotence|Low libido|Fatigue,Fruits|Nuts|Lean proteins,Sugary foods|Processed foods
+Chronic Lymphocytic Leukemia,Fatigue|Swelling|Weight loss,Lean proteins|Fruits|Vegetables,Sugary foods|Processed snacks|Alcohol
+Atrial Fibrillation,Palpitations|Dizziness|Shortness of breath,Leafy greens|Fatty fish|Whole grains,Sugary foods|Processed foods|Caffeine
+Addison's Disease,Fatigue|Weight loss|Low blood pressure,High-protein foods|Fruits|Vegetables,Sugary foods|Processed snacks|Caffeine
+Eosinophilic Esophagitis,Difficulty swallowing|Abdominal pain|Food impaction,Lean proteins|Fruits|Vegetables,High-fat foods|Sugary snacks|Alcohol
+Vasculitis,Joint pain|Fatigue|Skin rashes,Fish|Nuts|Olive oil,Sugary foods|Processed foods|Alcohol
+Kawasaki Disease,Fever|Rash|Swollen lymph nodes,Fruits|Vegetables|Lean proteins,Sugary foods|Dairy|Processed foods
+Ankylosing Spondylitis,Back pain|Stiffness|Fatigue,Fatty fish|Leafy greens|Nuts,Saturated fats|Processed foods|Sugary snacks
+Chronic Rhinosinusitis,Nasal congestion|Facial pain|Loss of smell,Saline rinses|Ginger|Turmeric,Spicy foods|Dairy|Sugary foods
+Sjögren's Syndrome,Dry eyes|Dry mouth|Fatigue,Fruits|Leafy greens|Lean proteins,Sugary foods|Processed foods|Caffeine
+
+Disease/Symptom,Symptoms,Recommended Foods,Not Recommended Foods
+Chronic Obstructive Pulmonary Disease (COPD),Breathlessness|Chronic cough|Wheezing,Omega-3 rich foods|Fruits|Vegetables,Processed foods|Sugary snacks
+Tension Headaches,Pressure in the head|Neck pain|Fatigue,Herbal tea|Nuts|Fruits,Sugary foods|Caffeine
+Hemochromatosis,Fatigue|Joint pain|Abdominal pain,Low-iron foods|Leafy greens|Fruits,Alcohol|Sugary snacks|Processed foods
+Polycystic Ovary Syndrome (PCOS),Irregular periods|Weight gain|Excessive hair growth,Whole grains|Lean proteins|Fruits,Sugary foods|Processed snacks
+Chronic Fatigue Syndrome (CFS),Extreme fatigue|Sleep issues|Joint pain,Foods rich in magnesium|Fruits|Nuts,Sugary foods|Caffeine
+Osteoporosis,Fractures|Back pain|Loss of height,Dairy products|Leafy greens|Nuts,Alcohol|Sugary foods|Processed snacks
+Celiac Disease,Abdominal pain|Bloating|Diarrhea,Gluten-free grains|Fruits|Vegetables,Wheat products|Sugary foods|Processed snacks
+Dementia,Memory loss|Difficulty communicating|Confusion,Oily fish|Berries|Nuts,Sugary foods|Processed foods
+Chronic Heart Failure,Fatigue|Shortness of breath|Swelling,Lean proteins|Fruits|Vegetables,High-sodium foods|Sugary snacks|Processed foods
+Restless Legs Syndrome,Uncontrollable urge to move legs|Discomfort|Insomnia,Foods rich in iron|Bananas|Nuts,Caffeine|Sugary foods
+Chronic Pelvic Pain,Abdominal pain|Discomfort|Pain during intercourse,Whole grains|Leafy greens|Lean proteins,Sugary foods|Processed snacks
+Anxiety Disorders,Nervousness|Restlessness|Sweating,Herbal tea|Nuts|Dark chocolate,Caffeine|Sugary foods|Alcohol
+Chronic Liver Disease,Fatigue|Jaundice|Abdominal swelling,Fruits|Vegetables|Whole grains,Alcohol|Sugary foods|Processed snacks
+Hyperthyroidism,Weight loss|Rapid heartbeat|Nervousness,Fruits|Leafy greens|Whole grains,Sugary foods|Caffeine
+Gout,Joint pain|Swelling|Redness,Cherries|Fruits|Vegetables,High-purine foods|Sugary drinks|Alcohol
+Sickle Cell Disease,Pain crises|Fatigue|Anemia,Lean meats|Fruits|Vegetables,Sugary foods|Processed foods|Alcohol
+Sleep Apnea,Loud snoring|Fatigue|Headaches,Lean proteins|Fruits|Vegetables,Alcohol|Sugary foods|High-fat foods
+Raynaud’s Phenomenon,Cold fingers|Color changes|Numbness,Warm foods|Spices|Garlic,Caffeine|Sugary foods|Processed snacks
+Chronic Sinusitis,Facial pain|Nasal congestion|Headache,Saline rinses|Ginger|Turmeric,Dairy|Sugary foods|Processed snacks
+Trichotillomania,Hair pulling|Anxiety|Fatigue,Omega-3 rich foods|Berries|Leafy greens,Sugary foods|Processed snacks|Caffeine
+Epilepsy,Seizures|Fatigue|Confusion,High-fat foods|Leafy greens|Eggs,Sugary foods|Processed snacks|Caffeine
+Leukemia,Fatigue|Frequent infections|Easy bruising,Lean proteins|Fruits|Vegetables,Sugary foods|Processed snacks|Alcohol
+Chronic Kidney Disease,Fatigue|Swelling|Nausea,Low-potassium foods|Fruits|Vegetables,High-phosphorus foods|Sugary snacks|Processed foods
+Fibromyalgia,Pain|Fatigue|Sleep disturbances,Foods rich in omega-3|Lean proteins|Nuts,Sugary foods|Processed foods
+Atrial Fibrillation,Palpitations|Dizziness|Fatigue,Leafy greens|Fatty fish|Whole grains,Sugary foods|Processed foods|Caffeine
+Croup,Cough|Stridor|Fever,Hydrating fluids|Warm soups|Honey,Sugary foods|Caffeine|Dairy
+Hemophilia,Easy bruising|Prolonged bleeding|Fatigue,Vitamin K rich foods|Leafy greens|Fish,Sugary foods|Processed snacks|Alcohol
+Mononucleosis,Fatigue|Sore throat|Swollen lymph nodes,Hydrating foods|Lean proteins|Fruits,Sugary foods|Processed snacks|Caffeine
+Psoriasis,Red patches|Itching|Dry skin,Fatty fish|Olive oil|Fruits,Sugary foods|Processed snacks|Alcohol
+Peripheral Neuropathy,Numbness|Tingling|Weakness,Foods rich in vitamin B|Leafy greens|Nuts,Sugary foods|Processed snacks|Alcohol
+Alzheimer’s Disease,Mood changes|Memory loss|Difficulty performing tasks,Oily fish|Berries|Leafy greens,Sugary foods|Processed foods
+Alopecia Areata,Hair loss|Skin patches|Nail changes,Vitamin-rich foods|Fruits|Vegetables,Sugary foods|Processed snacks|Caffeine
+Acid Reflux,Heartburn|Regurgitation|Difficulty swallowing,Oatmeal|Ginger|Bananas,Coffee|Spicy foods|Sugary snacks
+Bipolar Disorder,Extreme mood swings|Fatigue|Depression,Omega-3 rich foods|Fruits|Vegetables,Sugary foods|Processed snacks|Caffeine
+Congestive Heart Failure,Fatigue|Swelling|Shortness of breath,Whole grains|Fruits|Leafy greens,High-sodium foods|Sugary snacks|Processed foods
+Cystic Fibrosis,Cough|Shortness of breath|Digestive issues,Fruits|Vegetables|Whole grains,Sugary foods|Processed snacks|Alcohol
+Fibromuscular Dysplasia,Headaches|Dizziness|Fatigue,Lean proteins|Fruits|Vegetables,Sugary foods|Processed snacks|Caffeine
+Post-Traumatic Stress Disorder (PTSD),Flashbacks|Anxiety|Sleep problems,Oily fish|Fruits|Nuts,Sugary foods|Processed foods|Caffeine
+Chronic Urticaria,Itchy welts|Swelling|Fatigue,Omega-3 rich foods|Fruits|Vegetables,Sugary foods|Processed snacks|Alcohol
+Cognitive Dysfunction,Memory issues|Difficulty concentrating|Fatigue,Fruits|Vegetables|Lean proteins,Sugary foods|Processed foods|Caffeine
+Raynaud's Disease,Cold hands|Color changes|Numbness,Warm foods|Spices|Garlic,Caffeine|Sugary foods|Processed snacks
+Thyroid Cancer,Weight changes|Difficulty swallowing|Fatigue,Lean proteins|Fruits|Vegetables,Sugary foods|Processed snacks|Alcohol
+Tourette Syndrome,Tics|Involuntary movements|Fatigue,High-protein foods|Nuts|Lean meats,Sugary foods|Processed foods|Caffeine
+Chronic Lymphocytic Leukemia,Fatigue|Swollen lymph nodes|Weight loss,Fruits|Lean proteins|Vegetables,Sugary foods|Processed snacks|Alcohol
+Systemic Lupus Erythematosus,Fatigue|Joint pain|Skin rashes,Fish|Leafy greens|Nuts,Sugary foods|Processed foods|Caffeine
+Hypoparathyroidism,Tingling|Muscle cramps|Fatigue,Foods rich in calcium|Dairy|Leafy greens,Sugary foods|Processed snacks|Alcohol
+Chronic Fatigue Syndrome,Severe fatigue|Sleep disturbances|Muscle pain,Whole grains|Fruits|Lean proteins,Sugary foods|Processed snacks|Caffeine
+Anxiety Disorders,Nervousness|Restlessness|Sweating,Herbal tea|Nuts|Bananas,Caffeine|Sugary foods|Processed snacks
+Chronic Fatigue Syndrome,Fatigue|Difficulty concentrating|Sleep disturbances,High-protein foods|Lean meats|Fruits,Sugary foods|Processed snacks|Caffeine
+Sepsis,Fever|Rapid heart rate|Confusion,High-protein foods|Lean meats|Fruits,Sugary foods|Processed snacks|Alcohol
+Lupus,Joint pain|Fatigue|Skin rashes,Fruits|Leafy greens|Fish,Sugary foods|Processed snacks|Caffeine
+
+

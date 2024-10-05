@@ -1,0 +1,281 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login & Registration</title>
+        <style>
+            body {
+                font-family: 'Arial', sans-serif;
+                background: linear-gradient(135deg, #007BFF, #00C6FF);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+                overflow: hidden;
+                position: relative;
+            }
+
+            .container {
+                position: relative;
+                background: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.6));
+                padding: 100px;
+                border-radius: 75px;
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+                width: 400px;
+                z-index: 10;
+                animation: slideIn 0.5s ease-in-out;
+                backdrop-filter: blur(10px);
+                text-align: center;
+            }
+
+            @keyframes slideIn {
+                from {
+                    transform: translateY(-30px);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateY(0);
+                    opacity: 1;
+                }
+            }
+
+            h1 {
+                color: #333;
+                font-size: 50px;
+                margin-bottom: 20px;
+                margin-top: -50px;
+            }
+
+            label {
+                display: block;
+                margin-bottom: 8px;
+                font-weight: bold;
+                color: #555;
+            }
+
+            input[type="text"],
+            input[type="password"] {
+                width: 120%;
+                padding: 20px;
+                margin-bottom: 30px;
+                border: 2px solid #007BFF;
+                border-radius: 80px;
+                box-sizing: border-box;
+                margin-left: -40px;
+                font-size: 20px;
+                transition: border-color 0.3s, transform 0.2s;
+            }
+
+            input[type="text"]:focus,
+            input[type="password"]:focus {
+                border-color: #0056b3;
+                outline: none;
+                transform: scale(2.05);
+            }
+
+            button {
+                width: 100%;
+                padding: 12px;
+                background: linear-gradient(135deg, #007BFF, #FF007F);
+                color: white;
+                border: none;
+                border-radius: 8px;
+                font-size: 18px;
+                margin-bottom: 10px;
+                cursor: pointer;
+                transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+                box-shadow: 0 0 10px rgba(0, 123, 255, 0.6), 0 0 20px rgba(255, 0, 127, 0.6);
+            }
+
+            button:hover {
+                background: linear-gradient(135deg, #0056b3, #d4007d);
+                transform: scale(1.05);
+                box-shadow: 0 0 20px rgba(0, 123, 255, 0.8), 0 0 30px rgba(255, 0, 127, 0.8);
+            }
+
+            .register-link {
+                margin-top: 15px;
+            }
+
+            .register-link a {
+                color: #007BFF;
+                text-decoration: none;
+                transition: color 0.3s;
+            }
+
+            .register-link a:hover {
+                color: #0056b3;
+                text-decoration: underline;
+            }
+
+            .flash-message {
+                color: rgb(241, 13, 13);
+                margin-bottom: 15px;
+            }
+
+            .bubbles {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                z-index: 1;
+            }
+
+            .bubble {
+                position: absolute;
+                bottom: -150px;
+                background: rgba(255, 255, 255, 0.7);
+                border-radius: 50%;
+                animation: rise 15s infinite;
+                opacity: 0.5;
+                filter: blur(4px);
+            }
+
+            @keyframes rise {
+                0% {
+                    transform: translateY(0);
+                    opacity: 0.7;
+                }
+                100% {
+                    transform: translateY(-800px);
+                    opacity: 0;
+                }
+            }
+
+            .bubble1 { width: 40px; height: 40px; left: 10%; animation-duration: 12s; }
+            .bubble2 { width: 60px; height: 60px; left: 25%; animation-duration: 15s; }
+            .bubble3 { width: 30px; height: 30px; left: 50%; animation-duration: 10s; }
+            .bubble4 { width: 50px; height: 50px; left: 65%; animation-duration: 18s; }
+            .bubble5 { width: 70px; height: 70px; left: 80%; animation-duration: 20s; }
+
+            .wave {
+                position: absolute;
+                bottom: 0;
+                width: 100%;
+                height: 150px;
+                background: url('data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none"%3E%3Cpath d="M0,100 C0,50 1440,50 1440,100 L1440,0 L0,0 Z" style="fill: rgba(255, 255, 255, 0.3);"%3E%3C/path%3E%3C/svg%3E') repeat-x;
+                z-index: 0;
+            }
+
+            .popup {
+                display: none;
+                position: fixed;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                background-color: white;
+                color: #333;
+                padding: 20px;
+                border-radius: 15px;
+                z-index: 20;
+                text-align: center;
+                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+                animation: popupAnimation 0.3s ease-in-out;
+            }
+
+            @keyframes popupAnimation {
+                from {
+                    transform: translate(-50%, -50%) scale(0.8);
+                    opacity: 0;
+                }
+                to {
+                    transform: translate(-50%, -50%) scale(1);
+                    opacity: 1;
+                }
+            }
+
+            .popup button {
+                margin-top: 10px;
+                padding: 5px 10px;
+                background-color: #007BFF;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            }
+
+            .popup button:hover {
+                background-color: #0056b3;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="bubbles">
+            <div class="bubble bubble1"></div>
+            <div class="bubble bubble2"></div>
+            <div class="bubble bubble3"></div>
+            <div class="bubble bubble4"></div>
+            <div class="bubble bubble5"></div>
+        </div>
+        <div class="container">
+            <h1>Login</h1>
+            <form action="{{ url_for('login') }}" method="POST">
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" placeholder="Enter your username" required>
+                
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password" placeholder="Enter your password" required>
+                
+                <div class="flash-message">
+                    {% with messages = get_flashed_messages() %}
+                        {% if messages %}
+                            <ul>
+                                {% for message in messages %}
+                                    <li>{{ message }}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endwith %}
+                </div>
+                <button type="submit">Login</button>
+            </form>
+            <div class="register-link">Don't have an account? <a href="register" onclick="showRegisterForm()">Register here</a></div>
+        </div>
+        <div class="wave"></div>
+
+        <div class="popup" id="register-popup">
+            <h2>Register</h2>
+            <label for="new-username">Username:</label>
+            <input type="text" id="new-username" placeholder="Enter your new username" required>
+            
+            <label for="new-password">Password:</label>
+            <input type="password" id="new-password" placeholder="Enter your new password" required>
+            
+            <div class="flash-message" id="register-message"></div>
+            <button onclick="registerUser()">Register</button>
+            <button onclick="closePopup()">Close</button>
+        </div>
+
+        <script>
+            function showRegisterForm() {
+                document.getElementById('register-popup').style.display = 'block';
+            }
+
+            function closePopup() {
+                document.getElementById('register-popup').style.display = 'none';
+            }
+
+            function registerUser() {
+                const username = document.getElementById('new-username').value;
+                const password = document.getElementById('new-password').value;
+                const messageDiv = document.getElementById('register-message');
+
+                // Clear previous messages
+                messageDiv.innerHTML = '';
+
+                if (username && password) {
+                    // Simulating registration process (replace with actual registration logic)
+                    // messageDiv.innerHTML = 'Registration successful! Welcome, ' + username + '!';
+                    // Optionally, close the popup or reset fields
+                } else {
+                    messageDiv.innerHTML = 'Please fill in all fields!';
+                }
+            }
+        </script>
+    </body>
+    </html>

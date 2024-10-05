@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <title>Recommended Foods</title>
+    <style>
+        /* Reset some default styles */
+        body, ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Font styling using Google Fonts */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* Container styling */
+        .container {
+            text-align: center;
+            background: #ffffff;
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 600px;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        /* Heading styles */
+        h1 {
+            color: #343a40;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+        /* List styling */
+        ul {
+            list-style-type: none;
+            margin-bottom: 30px;
+        }
+
+        ul li {
+            font-size: 1.2rem;
+            background-color: #f1f3f5;
+            padding: 10px 20px;
+            border-radius: 10px;
+            margin: 10px 0;
+            transition: background 0.3s;
+        }
+
+        ul li:hover {
+            background-color: #e9ecef;
+        }
+
+        /* Button styling */
+        .buttons {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1.1rem;
+            background-color: #6c757d;
+            color: white;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #5a6268;
+        }
+
+        /* Animation for fade-in effect */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        /* Make it responsive */
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .btn {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Recommended Foods</h1>
+        <ul>
+            {% for food in recommended_foods %}
+            <li>{{ food }}</li>
+            {% endfor %}
+        </ul>
+        <div class="buttons">
+            <a class="btn" href="/recommendation">Get more recommendations</a>
+            <a class="btn" href="/">Home</a>
+        </div>
+    </div>
+</body>
+
+</html>
